@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\Shop Inventory.exe.config
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\Shop Inventory.exe
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\Shop Inventory.pdb
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop Inventory.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop Inventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop_Inventory.Properties.Resources.resources
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop Inventory.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop Inventory.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop Inventory.exe
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop Inventory.pdb
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\x86\sqlite3.dll
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\x64\sqlite3.dll
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop_Inventory.Register_New_Product.resources
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop_Inventory.Query.resources
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop_Inventory.Update_Records.resources
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop Inventory.csproj.CopyComplete
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\obj\Debug\Shop_Inventory.Login.resources
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\shop_inventory database.sqbpro
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\Dapper.dll
+C:\Users\USER\source\repos\Shop Inventory\Shop Inventory\bin\Debug\Dapper.xml
